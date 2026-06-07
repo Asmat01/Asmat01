@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My Name is _Asmat Ullah Khan. I am Backend Developer at \_MARS DIGITAL_ and I am currently learning **Python** and **Django**. I am looking to collaborate on **Open Source Projects**. You can reach me at [LinkedIn](https://www.linkedin.com/in/khanasmat/).
+My Name is _Asmat Ullah Khan. I am Backend Developer at \_MARS DIGITAL_ and I am currently learning **DevOps**. I am looking to collaborate on **Open Source Projects**. You can reach me at [LinkedIn](https://www.linkedin.com/in/khanasmat/). I am a **Python** enthusiast and I am always looking for new opportunities to learn and grow. I am a **team player** and I am always willing to help others. I am also a **fast learner** and I am always looking for new challenges. I am excited to connect with other developers and learn from them. I am also looking forward to contributing to open source projects and making a positive impact in the tech community. Thank you for visiting my profile!
 
 
 
